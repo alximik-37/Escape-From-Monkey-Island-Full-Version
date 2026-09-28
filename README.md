@@ -239,4 +239,4 @@ This repository serves as the official landing page for Escape from Monkey Islan
 **Get the most recent version of Escape from Monkey Island today!**
 
 ---
-**Last updated:** 2026-09-28 18:23:30 UTC
+**Last updated:** 2026-09-28 23:39:24 UTC
